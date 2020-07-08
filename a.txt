@@ -2,4 +2,4 @@ Git is good
 
 Github is awesome
 
-Edit `a1.txt`.
+Edit a1.txt.
